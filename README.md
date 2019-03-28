@@ -11,3 +11,5 @@ MCTS Pacman agent applied to the Pacman VS Ghosts conpetition framework.
 
 - Pacman's next action is calculated from the algorithm when pacman is on a junction, to improve perfomance and search depth.
   This junction calculation approach is influenced by this paper. (https://ieeexplore.ieee.org/abstract/document/6731713)
+
+![images](https://user-images.githubusercontent.com/15057375/55167564-ea947000-5179-11e9-8653-7c4c19f9cb1e.png)
