@@ -10,4 +10,4 @@ MCTS Pacman agent applied to the Pacman VS Ghosts conpetition framework.
 - The MCTS algorithm used is the default MCTS algorithm with a random rollout policy.
 
 - Pacman's next action is calculated from the algorithm when pacman is on a junction, to improve perfomance and search depth.
-  This junction calculation approach is influenced by this paper (https://ieeexplore.ieee.org/abstract/document/6731713)
+  This junction calculation approach is influenced by this paper. (https://ieeexplore.ieee.org/abstract/document/6731713)
